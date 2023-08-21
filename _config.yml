@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Hello, Blog"
 title_separator          : "-"
-subtitle                 : "since 2020" # site tagline that appears below site title in masthead
+subtitle                 : "since 2023" # site tagline that appears below site title in masthead
 name                     : "Seungho Bae"
 description              : "An amazing website."
 url                      : "https:/houuya.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
